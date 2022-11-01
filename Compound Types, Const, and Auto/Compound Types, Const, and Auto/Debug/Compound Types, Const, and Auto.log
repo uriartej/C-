@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Users\uriar\OneDrive\Desktop\C++ Files\Compound Types, Const, and Auto\Compound Types, Const, and Auto\Main.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\uriar\OneDrive\Desktop\C++ Files\Compound Types, Const, and Auto\Compound Types, Const, and Auto\Main.cpp(26,12): error C2373: 'i': redefinition; different type modifiers
+C:\Users\uriar\OneDrive\Desktop\C++ Files\Compound Types, Const, and Auto\Compound Types, Const, and Auto\Main.cpp(7): message : see declaration of 'i'
